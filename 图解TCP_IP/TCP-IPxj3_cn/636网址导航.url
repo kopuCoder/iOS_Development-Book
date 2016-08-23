@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://bbs.mumayi.net/index.php
+[InternetShortcut]
+URL=http://www.636.com/?ss
+Modified=F0E270E9431BCC0156
+IconFile=C:\WINDOWS\system32\url.dll
+IconIndex=0
+IDList=
+HotKey=0
+[InternetShortcut.A]
+[InternetShortcut.W]
+IconFile=E:+AFyPb072fxaPkQBc-favicon.ico
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
